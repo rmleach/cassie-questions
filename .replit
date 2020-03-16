@@ -1,0 +1,2 @@
+language = "javascript"
+run = "'run = \"'run =echo hello word\"'run = \"\"echo hello world\""
